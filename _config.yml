@@ -1,6 +1,6 @@
 url: tki-indigenous-genomics.github.io
 baseurl: /tki-indigenous-genomics
-#remote_theme: zivong/jekyll-theme-hydure
+remote_theme: zivong/jekyll-theme-hydure
 
 plugins:
   - jekyll-remote-theme
