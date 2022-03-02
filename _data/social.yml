@@ -1,0 +1,6 @@
+- title: Email
+  url: mailto:jimmy.breen@telethonkids.org.au
+  icon: fas fa-envelope
+- title: GitHub
+  url: https://github.com/tki-indigenous-genomics
+  icon: fab fa-github
