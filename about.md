@@ -1,1 +1,1 @@
-# Telethon Kids Institute - Indigenous Genomics
+Description of Indigenous Genomics Group
