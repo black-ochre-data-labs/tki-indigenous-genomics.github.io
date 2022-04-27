@@ -6,4 +6,4 @@ title: Meet the Team
 
 ![DUG](/assets/DUG_sam_jimmy.jpeg)
 
-Jimmy Breen and Sam Buckbery visit DUG in Perth, Western Australia
+Jimmy Breen and Sam Buckberry visit DUG in Perth, Western Australia
