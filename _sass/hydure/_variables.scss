@@ -3,6 +3,10 @@ $md-screen: 48rem;
 $lg-screen: 64rem;
 $xl-screen: 80rem;
 
+// Set fonts as variables
+$times: 'Times New Roman', sans-serif;
+$oxygen: 'Oxygen', sans-serif;
+
 :root {
   --body-font-size: 16px;
   --body-line-height: 1.5;
@@ -12,9 +16,9 @@ $xl-screen: 80rem;
   --link-color:       var(--oc-blue-9);
   --heading-color:    var(--oc-black);
   
-  --body-font: Oxygen, 'Trebuchet MS', Tahoma, Ubuntu, 'Open Sans', sans-serif;
-  --brand-title-font: Oxygen, Georgia, "Neuton", serif;
-  --heading-font: Oxygen, Georgia, Cochin, Times, 'Times New Roman', serif;
+  --body-font: $oxygen, $times, 'Open Sans', sans-serif;
+  --brand-title-font: $oxygen, $times, serif;
+  --heading-font: $oxygen, $times, serif;
   --code-font: 'Courier New', Courier, monospace;
 
   --sidebar-color: var(--oc-gray-4);
