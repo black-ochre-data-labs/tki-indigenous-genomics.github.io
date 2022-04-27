@@ -1,15 +1,12 @@
-title: Telethon Kids Institute - Indigenous Genomics
-tagline: Indigenous Genomics
-description: Indigenous Genomics research group located in Adelaide (co-funded by Australian National University)
+title: Black Ochre Data Labs
+tagline: Indigenous Genomics research group located in Adelaide (co-funded by Telethon Kids Institute and Australian National University)
 
 url: https://tki-indigenous-genomics.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
-remote_theme: zivong/jekyll-theme-hydure
 
-highlighter: rouge
-paginate: 5
+remote_theme: zivong/jekyll-theme-hydure
 
 plugins:
   - jekyll-remote-theme
