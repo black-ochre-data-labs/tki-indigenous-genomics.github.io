@@ -4,7 +4,8 @@
 
 @media (min-width: $md-screen) {
   .sidebar {
-    position: absolute;
+    position: fixed;
+    top: 0;
     bottom: 0;
   }
 
