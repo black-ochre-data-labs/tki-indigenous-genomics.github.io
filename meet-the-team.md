@@ -9,4 +9,4 @@ title: Meet the Team
 Jimmy Breen and Sam Buckberry visit DUG in Perth, Western Australia
 
 
-~[HollyMartin](/assets/HollyMartin.png) Holly Martin is a Graduate Bioinformatician working within the Data Science team at Black Ochre Data Labs. 
+![HollyMartin](/assets/HollyMartin.png) Holly Martin is a Graduate Bioinformatician working within the Data Science team at Black Ochre Data Labs. 
