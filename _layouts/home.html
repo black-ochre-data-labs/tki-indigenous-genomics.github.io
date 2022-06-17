@@ -3,6 +3,10 @@ layout: default
 ---
 
 <div class="posts">
+  {% assign cover = site.cover | default: "https://github.com/tki-indigenous-genomics/tki-indigenous-genomics.github.io/blob/main/cover.jpg" %}
+  {% if page.cover %}
+    {% assign cover = page.cover %}
+  {% endif %}
   {% assign posts = site.posts %}
   {% if paginator %}
     {% assign posts = paginator.posts %}
