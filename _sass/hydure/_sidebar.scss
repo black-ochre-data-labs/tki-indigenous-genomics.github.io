@@ -8,7 +8,9 @@
 // Need to change in _layouts/defauly.html as well
 // Trying simplest style and bringing components in one by one.
 .sidebar-overlay {
-  background-color: rgba(105,103,133, 0.6);
+  width: 100%;
+  height: 65%;  
+  background-color: rgba(105,103,133, 0.6); 
 }
 
 .header {
