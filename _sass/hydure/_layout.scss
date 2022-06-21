@@ -9,6 +9,13 @@
     bottom: 0;
   }
 
+@media (min-width: $md-screen) {
+  .sidebar-overlay {
+    position: fixed;
+    top: 35%;
+    bottom: 0;
+  }
+
   .content {
     margin-left: 25%;
   }
