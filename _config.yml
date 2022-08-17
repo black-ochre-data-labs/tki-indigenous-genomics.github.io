@@ -15,3 +15,11 @@ plugins:
 
 social:
    github: tki-indigenous-genomics
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
