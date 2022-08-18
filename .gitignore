@@ -2,3 +2,5 @@
 .jekyll-cache/
 vendor/.DS_Store
 vendor/bundle/.DS_Store
+_site/
+.gitignore
