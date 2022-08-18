@@ -1,6 +1,7 @@
 .DS_Store
 .jekyll-cache/
-vendor/.DS_Store
-vendor/bundle/.DS_Store
+vendor/
 _site/
 .gitignore
+Gemfile.lock
+Gemfile
